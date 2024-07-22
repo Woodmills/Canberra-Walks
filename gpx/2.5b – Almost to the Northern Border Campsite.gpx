@@ -10,6 +10,13 @@
 <trk>
     <name>2.5b – Almost to the Northern Border Campsite</name>
     <type>Running</type>
+    <extensions>
+        <gpx_style:line>
+        <color>558b2f</color>
+        <opacity>0.7</opacity>
+        <weight>3</weight>
+        </gpx_style:line>
+    </extensions>
     <trkseg>
     <trkpt lat="-35.153992" lon="149.156447">
         <ele>657.5</ele>

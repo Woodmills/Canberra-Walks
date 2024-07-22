@@ -10,6 +10,13 @@
 <trk>
     <name>2.5a - Mulligans Flat to Mulligans Flat Road</name>
     <type>Running</type>
+    <extensions>
+        <gpx_style:line>
+        <color>558b2f</color>
+        <opacity>0.7</opacity>
+        <weight>3</weight>
+        </gpx_style:line>
+    </extensions>
     <trkseg>
     <trkpt lat="-35.166163" lon="149.145518">
         <ele>636.3</ele>
