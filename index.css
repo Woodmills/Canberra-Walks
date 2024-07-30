@@ -3,8 +3,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
   }
   body {
     background-color: white;
