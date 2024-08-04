@@ -10,34 +10,12 @@
   <trk>
     <name>6.3a – Cooleman Ridge Special Purpose Reserve and Mt Arawang</name>
     <trkseg>
-      <trkpt lat="-35.371454" lon="149.034311">
-        <ele>621.5</ele>
+      <trkpt lat="-35.370926" lon="149.03448">
+        <ele>621.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <surface>unknown</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.371242" lon="149.034365">
-        <ele>621</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>unknown</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.370922" lon="149.034471">
-        <ele>620.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>unknown</surface>
+              <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
           <gpxpx:PowerExtension/>
@@ -683,6 +661,17 @@
       </trkpt>
       <trkpt lat="-35.364012" lon="149.037853">
         <ele>713.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>dirt</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.363925" lon="149.038209">
+        <ele>716.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -2832,6 +2821,72 @@
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <surface>paved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.371582" lon="149.034477">
+        <ele>622.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>paved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.371552" lon="149.034438">
+        <ele>622.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>paved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.371518" lon="149.034369">
+        <ele>622</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>paved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.371502" lon="149.034299">
+        <ele>621.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>paved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.371242" lon="149.034365">
+        <ele>621</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>unknown</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.370956" lon="149.03446">
+        <ele>620.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>unknown</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
           <gpxpx:PowerExtension/>
