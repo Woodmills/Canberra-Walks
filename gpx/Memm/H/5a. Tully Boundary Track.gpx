@@ -1496,5 +1496,10 @@
         </extensions>
       </trkpt>
     </trkseg>
+    <extensions>
+      <gpx_style:line>
+        <color>694a3f</color>
+      </gpx_style:line>
+    </extensions>
   </trk>
 </gpx>
