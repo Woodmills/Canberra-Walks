@@ -9,16 +9,50 @@
   </metadata>
   <trk>
     <name>5b. Kama to the Pinnacle</name>
+    <extensions>
+      <gpx_style:line>
+        <color>a02b93</color>
+      </gpx_style:line>
+    </extensions>
     <trkseg>
-      <trkpt lat="-35.260133" lon="149.029564">
-        <ele>603.75</ele>
+      <trkpt lat="-35.259892" lon="149.029517">
+        <ele>603</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259981" lon="149.029631">
+        <ele>603.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>dirt</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259964" lon="149.029718">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>dirt</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259971" lon="149.02973">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>dirt</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259981" lon="149.029746">
@@ -29,7 +63,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259967" lon="149.029763">
@@ -40,7 +73,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259885" lon="149.029888">
@@ -51,7 +83,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259831" lon="149.030022">
@@ -62,7 +93,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259733" lon="149.030308">
@@ -73,7 +103,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259663" lon="149.030721">
@@ -84,7 +113,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.25964" lon="149.030949">
@@ -95,7 +123,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259641" lon="149.031272">
@@ -106,7 +133,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259955" lon="149.031349">
@@ -117,7 +143,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.26014" lon="149.031412">
@@ -128,7 +153,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260285" lon="149.031483">
@@ -139,7 +163,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260459" lon="149.031615">
@@ -150,7 +173,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260723" lon="149.0319">
@@ -161,7 +183,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260862" lon="149.03193">
@@ -172,7 +193,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260969" lon="149.031963">
@@ -183,7 +203,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261284" lon="149.032135">
@@ -194,7 +213,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261533" lon="149.032287">
@@ -205,7 +223,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261615" lon="149.03232">
@@ -216,7 +233,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261743" lon="149.032351">
@@ -227,7 +243,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261827" lon="149.032645">
@@ -238,7 +253,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261918" lon="149.032896">
@@ -249,7 +263,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262044" lon="149.033638">
@@ -260,7 +273,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262054" lon="149.033995">
@@ -271,7 +283,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262093" lon="149.034149">
@@ -282,7 +293,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262204" lon="149.034409">
@@ -293,7 +303,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262205" lon="149.034529">
@@ -304,7 +313,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262177" lon="149.034716">
@@ -315,7 +323,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262166" lon="149.034792">
@@ -326,7 +333,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262143" lon="149.035201">
@@ -337,7 +343,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262107" lon="149.035366">
@@ -348,7 +353,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262022" lon="149.035585">
@@ -359,7 +363,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261832" lon="149.035937">
@@ -370,7 +373,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261769" lon="149.036071">
@@ -381,7 +383,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261738" lon="149.036291">
@@ -392,7 +393,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.26174" lon="149.036519">
@@ -403,7 +403,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261795" lon="149.036836">
@@ -414,7 +413,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261841" lon="149.037046">
@@ -425,7 +423,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261874" lon="149.03725">
@@ -436,7 +433,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261948" lon="149.037534">
@@ -447,7 +443,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261949" lon="149.037628">
@@ -458,7 +453,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261912" lon="149.037728">
@@ -469,7 +463,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261844" lon="149.03778">
@@ -477,385 +470,124 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.261914" lon="149.038058">
-        <ele>653.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.261964" lon="149.03815">
-        <ele>654.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>unpaved</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.261854" lon="149.037817">
+        <ele>650.6688826311386</ele>
       </trkpt>
-      <trkpt lat="-35.261982" lon="149.038267">
-        <ele>654.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.261832451215945" lon="149.03780633231202">
+        <ele>650.6191676016902</ele>
       </trkpt>
-      <trkpt lat="-35.261771" lon="149.038333">
-        <ele>654.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.261775105757685" lon="149.03778079365196">
+        <ele>650.5991973938424</ele>
       </trkpt>
-      <trkpt lat="-35.261657" lon="149.038356">
-        <ele>654.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26174524818954" lon="149.03776860474795">
+        <ele>650.6275996100164</ele>
       </trkpt>
-      <trkpt lat="-35.261546" lon="149.038379">
-        <ele>655.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.261618708849795" lon="149.03772971633424">
+        <ele>650.9366041343543</ele>
       </trkpt>
-      <trkpt lat="-35.26105" lon="149.038452">
-        <ele>661.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26143895491695" lon="149.03773244194787">
+        <ele>654.1830647762763</ele>
       </trkpt>
-      <trkpt lat="-35.260261" lon="149.0386">
-        <ele>670.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26133848249631" lon="149.03772025618457">
+        <ele>656.2900477020078</ele>
       </trkpt>
-      <trkpt lat="-35.260057" lon="149.038706">
-        <ele>673.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.2613214209385" lon="149.0376976196461">
+        <ele>656.6531902213587</ele>
       </trkpt>
-      <trkpt lat="-35.259955" lon="149.038784">
-        <ele>674.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26120341172962" lon="149.0376976196461">
+        <ele>659.771603931767</ele>
       </trkpt>
-      <trkpt lat="-35.259906" lon="149.038821">
-        <ele>675</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26116615410453" lon="149.03769933556214">
+        <ele>660.7080950162851</ele>
       </trkpt>
-      <trkpt lat="-35.25978" lon="149.038592">
-        <ele>675.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26099333769952" lon="149.03757999410476">
+        <ele>663.7794887046341</ele>
       </trkpt>
-      <trkpt lat="-35.259674" lon="149.038505">
-        <ele>676</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.260922122416574" lon="149.03756351980883">
+        <ele>664.8517226685708</ele>
       </trkpt>
-      <trkpt lat="-35.25951" lon="149.038444">
-        <ele>677.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26084062140867" lon="149.03749084410657">
+        <ele>665.5638266752355</ele>
       </trkpt>
-      <trkpt lat="-35.259438" lon="149.038447">
-        <ele>678</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26074250237334" lon="149.03744917383005">
+        <ele>666.3090224323496</ele>
       </trkpt>
-      <trkpt lat="-35.259404" lon="149.038426">
-        <ele>678.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26071164232973" lon="149.03744917383005">
+        <ele>666.5792417074824</ele>
       </trkpt>
-      <trkpt lat="-35.259383" lon="149.038316">
-        <ele>678</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26069416030768" lon="149.03735181481733">
+        <ele>666.0528379413304</ele>
       </trkpt>
-      <trkpt lat="-35.259323" lon="149.038207">
-        <ele>678.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26056584270125" lon="149.0373509516001">
+        <ele>667.2157554414136</ele>
       </trkpt>
-      <trkpt lat="-35.25926" lon="149.038154">
-        <ele>678.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26044577304302" lon="149.03735523454236">
+        <ele>668.4981284255771</ele>
       </trkpt>
-      <trkpt lat="-35.259041" lon="149.037966">
-        <ele>679</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26024526797234" lon="149.03723388453807">
+        <ele>669.3578030998508</ele>
       </trkpt>
-      <trkpt lat="-35.258692" lon="149.037833">
-        <ele>678.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.26003776851961" lon="149.03717820667362">
+        <ele>671.2101572799922</ele>
       </trkpt>
-      <trkpt lat="-35.258501" lon="149.037723">
-        <ele>678</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25996432739689" lon="149.0371496537315">
+        <ele>671.7955344160885</ele>
       </trkpt>
-      <trkpt lat="-35.258392" lon="149.03769">
-        <ele>677.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25958662690667" lon="149.03685083210362">
+        <ele>671.8827986017067</ele>
       </trkpt>
-      <trkpt lat="-35.258186" lon="149.037607">
-        <ele>678.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.259569143771955" lon="149.03683700014176">
+        <ele>671.793787710106</ele>
       </trkpt>
-      <trkpt lat="-35.257975" lon="149.037636">
-        <ele>680</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.259523679964694" lon="149.03680130896413">
+        <ele>671.5699136320528</ele>
       </trkpt>
-      <trkpt lat="-35.257872" lon="149.037615">
-        <ele>680.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.259383791167444" lon="149.03674991366785">
+        <ele>671.5314390895343</ele>
       </trkpt>
-      <trkpt lat="-35.257756" lon="149.037591">
-        <ele>681.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.259062046192064" lon="149.03665283381957">
+        <ele>670.6361619458473</ele>
       </trkpt>
-      <trkpt lat="-35.257677" lon="149.037554">
-        <ele>682.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>ground</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25895130029032" lon="149.03660857675885">
+        <ele>669.4600992736414</ele>
       </trkpt>
-      <trkpt lat="-35.257602" lon="149.037513">
-        <ele>682.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25877959770551" lon="149.0365949390045">
+        <ele>668.4955342614771</ele>
       </trkpt>
-      <trkpt lat="-35.257517" lon="149.037488">
-        <ele>682.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.258678177481826" lon="149.03650356963982">
+        <ele>666.3578820112774</ele>
       </trkpt>
-      <trkpt lat="-35.257394" lon="149.037315">
-        <ele>682.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.258611729640144" lon="149.03649357610942">
+        <ele>665.9775373434608</ele>
       </trkpt>
-      <trkpt lat="-35.257329" lon="149.037086">
-        <ele>681.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25848815982446" lon="149.0364336149318">
+        <ele>665.5386185765873</ele>
       </trkpt>
-      <trkpt lat="-35.257264" lon="149.036765">
-        <ele>680.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25835176650697" lon="149.03634795610526">
+        <ele>665.5782959441623</ele>
       </trkpt>
-      <trkpt lat="-35.257227" lon="149.036249">
-        <ele>678</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.258090638086024" lon="149.03615665295996">
+        <ele>667.2636305209722</ele>
+      </trkpt>
+      <trkpt lat="-35.257841381127825" lon="149.03614951473236">
+        <ele>669.1107257734529</ele>
+      </trkpt>
+      <trkpt lat="-35.25778425871215" lon="149.03612524473095">
+        <ele>669.4929123042151</ele>
+      </trkpt>
+      <trkpt lat="-35.25768400294586" lon="149.0360695664939">
+        <ele>670.0534933086489</ele>
+      </trkpt>
+      <trkpt lat="-35.25761289122364" lon="149.03615950826128">
+        <ele>670.9182984850185</ele>
+      </trkpt>
+      <trkpt lat="-35.25728414439593" lon="149.0361380935181">
+        <ele>676.725852656094</ele>
       </trkpt>
       <trkpt lat="-35.257275" lon="149.036118">
         <ele>676.5</ele>
@@ -865,7 +597,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.2572" lon="149.035557">
@@ -876,7 +607,16 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.257127" lon="149.035062">
+        <ele>670.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>dirt</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257112" lon="149.034967">
@@ -887,7 +627,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257042" lon="149.034591">
@@ -898,7 +637,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257057" lon="149.034465">
@@ -909,7 +647,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257009" lon="149.034358">
@@ -920,18 +657,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.257007" lon="149.034226">
-        <ele>660</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257003" lon="149.034043">
@@ -942,7 +667,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.256949" lon="149.03378">
@@ -953,7 +677,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.256821" lon="149.033693">
@@ -964,7 +687,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.256699" lon="149.033643">
@@ -975,7 +697,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.256594" lon="149.033457">
@@ -986,7 +707,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.25654" lon="149.033376">
@@ -997,40 +717,31 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.256446" lon="149.033168">
-        <ele>646</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.256531" lon="149.033356">
+        <ele>648.242220683443</ele>
       </trkpt>
-      <trkpt lat="-35.256332" lon="149.032955">
-        <ele>642.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
+      <trkpt lat="-35.25651613613817" lon="149.03326764466414">
+        <ele>646.979062516399</ele>
       </trkpt>
-      <trkpt lat="-35.256532" lon="149.032954">
-        <ele>642</ele>
+      <trkpt lat="-35.25655723354206" lon="149.03315897986926">
+        <ele>644.9853949016191</ele>
+      </trkpt>
+      <trkpt lat="-35.25661140736067" lon="149.03310750707396">
+        <ele>643.8048990150454</ele>
+      </trkpt>
+      <trkpt lat="-35.256759917928854" lon="149.0330388780999">
+        <ele>641.2660434652164</ele>
+      </trkpt>
+      <trkpt lat="-35.2568" lon="149.033039">
+        <ele>642.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.256897" lon="149.03307">
@@ -1041,7 +752,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.257783" lon="149.033317">
@@ -1052,18 +762,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.257884" lon="149.033349">
-        <ele>643.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>unpaved</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.258105" lon="149.033422">
@@ -1074,7 +772,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.258204" lon="149.033478">
@@ -1085,7 +782,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.258295" lon="149.033562">
@@ -1096,7 +792,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259018" lon="149.034428">
@@ -1107,7 +802,16 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259056" lon="149.034485">
+        <ele>649.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>unpaved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259171" lon="149.034667">
@@ -1118,7 +822,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259545" lon="149.035163">
@@ -1129,7 +832,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259631" lon="149.035256">
@@ -1140,7 +842,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259787" lon="149.035351">
@@ -1151,7 +852,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259833" lon="149.035393">
@@ -1162,7 +862,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.25987" lon="149.035456">
@@ -1173,7 +872,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259971" lon="149.035737">
@@ -1184,7 +882,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260029" lon="149.035812">
@@ -1195,7 +892,16 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.260086" lon="149.035862">
+        <ele>652.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>unpaved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260372" lon="149.036119">
@@ -1206,7 +912,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260722" lon="149.036388">
@@ -1217,7 +922,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261006" lon="149.036676">
@@ -1228,7 +932,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261285" lon="149.037002">
@@ -1239,7 +942,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261726" lon="149.037581">
@@ -1250,7 +952,6 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261791" lon="149.037666">
@@ -1261,7 +962,16 @@
               <surface>unpaved</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.261823" lon="149.037732">
+        <ele>652.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <surface>unpaved</surface>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261844" lon="149.03778">
@@ -1269,10 +979,9 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <surface>unpaved</surface>
+              <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261912" lon="149.037728">
@@ -1283,7 +992,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261949" lon="149.037628">
@@ -1294,7 +1002,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261948" lon="149.037534">
@@ -1305,7 +1012,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261874" lon="149.03725">
@@ -1316,7 +1022,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261841" lon="149.037046">
@@ -1327,7 +1032,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261795" lon="149.036836">
@@ -1338,7 +1042,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.26174" lon="149.036519">
@@ -1349,7 +1052,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261738" lon="149.036291">
@@ -1360,7 +1062,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261769" lon="149.036071">
@@ -1371,7 +1072,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261832" lon="149.035937">
@@ -1382,7 +1082,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262022" lon="149.035585">
@@ -1393,7 +1092,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262107" lon="149.035366">
@@ -1404,7 +1102,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262143" lon="149.035201">
@@ -1415,7 +1112,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262166" lon="149.034792">
@@ -1426,7 +1122,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262177" lon="149.034716">
@@ -1437,7 +1132,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262205" lon="149.034529">
@@ -1448,7 +1142,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262204" lon="149.034409">
@@ -1459,7 +1152,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262093" lon="149.034149">
@@ -1470,7 +1162,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262054" lon="149.033995">
@@ -1481,7 +1172,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.262044" lon="149.033638">
@@ -1492,7 +1182,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261918" lon="149.032896">
@@ -1503,7 +1192,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261827" lon="149.032645">
@@ -1514,7 +1202,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261743" lon="149.032351">
@@ -1525,7 +1212,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261615" lon="149.03232">
@@ -1536,7 +1222,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261533" lon="149.032287">
@@ -1547,7 +1232,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.261284" lon="149.032135">
@@ -1558,7 +1242,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260969" lon="149.031963">
@@ -1569,7 +1252,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260862" lon="149.03193">
@@ -1580,7 +1262,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260723" lon="149.0319">
@@ -1591,7 +1272,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260459" lon="149.031615">
@@ -1602,7 +1282,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.260285" lon="149.031483">
@@ -1613,7 +1292,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.26014" lon="149.031412">
@@ -1624,7 +1302,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259955" lon="149.031349">
@@ -1635,7 +1312,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259641" lon="149.031272">
@@ -1646,7 +1322,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.25964" lon="149.030949">
@@ -1657,7 +1332,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259663" lon="149.030721">
@@ -1668,7 +1342,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259733" lon="149.030308">
@@ -1679,7 +1352,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259831" lon="149.030022">
@@ -1690,7 +1362,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259885" lon="149.029888">
@@ -1701,7 +1372,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259967" lon="149.029763">
@@ -1712,7 +1382,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259981" lon="149.029746">
@@ -1723,7 +1392,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259971" lon="149.02973">
@@ -1734,7 +1402,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259964" lon="149.029718">
@@ -1745,7 +1412,6 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
       <trkpt lat="-35.259981" lon="149.029631">
@@ -1756,190 +1422,11 @@
               <surface>dirt</surface>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.259908" lon="149.029537">
+      <trkpt lat="-35.259878" lon="149.029499">
         <ele>603</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259981" lon="149.029631">
-        <ele>603.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259964" lon="149.029718">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259971" lon="149.02973">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259981" lon="149.029746">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260214" lon="149.029468">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260502" lon="149.02909">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260576" lon="149.028994">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260583" lon="149.028983">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260576" lon="149.028994">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260214" lon="149.029468">
-        <ele>603.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259981" lon="149.029746">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259971" lon="149.02973">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259964" lon="149.029718">
-        <ele>604</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259981" lon="149.029631">
-        <ele>603.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.259883" lon="149.029505">
-        <ele>603</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-          <gpxpx:PowerExtension/>
-        </extensions>
       </trkpt>
     </trkseg>
-    <extensions>
-      <gpx_style:line>
-        <color>ffc000</color>
-      </gpx_style:line>
-    </extensions>
   </trk>
 </gpx>
