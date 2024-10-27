@@ -9,6 +9,11 @@
   </metadata>
   <trk>
     <name>M4 – Woodland Track</name>
+    <extensions>
+      <gpx_style:line>
+        <color>0000ff</color>
+      </gpx_style:line>
+    </extensions>
     <trkseg>
       <trkpt lat="-35.3132065308885" lon="149.03521174188978">
         <ele>560.4181135560322</ele>
