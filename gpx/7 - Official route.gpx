@@ -13,7 +13,7 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>c00000</gpx_style:color>
-        <gpx_style:width>1</gpx_style:width>
+        <gpx_style:width>2</gpx_style:width>
       </gpx_style:line>
     </extensions>
     <trkseg>
@@ -664,7 +664,7 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>c00000</gpx_style:color>
-        <gpx_style:width>1</gpx_style:width>
+        <gpx_style:width>2</gpx_style:width>
       </gpx_style:line>
     </extensions>
     <trkseg>
@@ -688,7 +688,7 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>c00000</gpx_style:color>
-        <gpx_style:width>1</gpx_style:width>
+        <gpx_style:width>2</gpx_style:width>
       </gpx_style:line>
     </extensions>
     <trkseg>
@@ -703,7 +703,7 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>c00000</gpx_style:color>
-        <gpx_style:width>1</gpx_style:width>
+        <gpx_style:width>2</gpx_style:width>
       </gpx_style:line>
     </extensions>
     <trkseg>
