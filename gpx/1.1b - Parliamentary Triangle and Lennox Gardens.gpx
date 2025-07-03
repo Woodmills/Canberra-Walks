@@ -9,6 +9,11 @@
   </metadata>
   <trk>
     <name>1.1b - Parliamentary Triangle and Lennox Gardens</name>
+    <extensions>
+      <gpx_style:line>
+        <gpx_style:color>558b30</gpx_style:color>
+      </gpx_style:line>
+    </extensions>
     <trkseg>
       <trkpt lat="-35.297648" lon="149.12586">
         <ele>568.75</ele>
