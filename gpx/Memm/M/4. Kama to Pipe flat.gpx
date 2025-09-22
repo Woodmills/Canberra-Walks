@@ -15,7 +15,78 @@
       </gpx_style:line>
     </extensions>
     <trkseg>
-      <trkpt lat="-35.260069" lon="149.029642">
+      <trkpt lat="-35.259933" lon="149.029569">
+        <ele>603.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade2</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259981" lon="149.029631">
+        <ele>603.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259964" lon="149.029718">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259971" lon="149.02973">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259981" lon="149.029746">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+              <mtb_scale>0</mtb_scale>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.260129" lon="149.029569">
         <ele>603.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
@@ -50,329 +121,283 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
               <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+              <mtb_scale>0</mtb_scale>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.260592" lon="149.029016">
+      <trkpt lat="-35.260589" lon="149.028975">
         <ele>603.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
+              <highway>track</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.260548" lon="149.029143">
-        <ele>603.75</ele>
+      <trkpt lat="-35.260657" lon="149.029004">
+        <ele>604</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
+              <highway>track</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.260519" lon="149.029379">
+      <trkpt lat="-35.260704" lon="149.029046">
         <ele>604.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260527" lon="149.029475">
-        <ele>604.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260589" lon="149.029556">
-        <ele>605</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260828" lon="149.02983">
-        <ele>606.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.260962" lon="149.029972">
-        <ele>607.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>path</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.261239" lon="149.030109">
-        <ele>609</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.261705" lon="149.030503">
-        <ele>611.25</ele>
+      <trkpt lat="-35.26095" lon="149.029145">
+        <ele>605.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.262215" lon="149.030968">
+      <trkpt lat="-35.26124" lon="149.029225">
+        <ele>607.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.2616" lon="149.02928">
+        <ele>610.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.262787" lon="149.02926">
+        <ele>615.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.26313" lon="149.029245">
         <ele>615.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.262599" lon="149.031416">
-        <ele>618.25</ele>
+      <trkpt lat="-35.263176" lon="149.029241">
+        <ele>616</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.262896" lon="149.031654">
-        <ele>618.75</ele>
+      <trkpt lat="-35.263457" lon="149.029173">
+        <ele>616</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.263019" lon="149.031575">
-        <ele>619.25</ele>
+      <trkpt lat="-35.263661" lon="149.029064">
+        <ele>615.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.26309" lon="149.031538">
-        <ele>619.5</ele>
+      <trkpt lat="-35.263917" lon="149.028865">
+        <ele>613.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.263196" lon="149.031495">
-        <ele>619.75</ele>
+      <trkpt lat="-35.264159" lon="149.028684">
+        <ele>611</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.26358" lon="149.031341">
-        <ele>621</ele>
+      <trkpt lat="-35.264223" lon="149.02863">
+        <ele>610.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.263777" lon="149.031094">
-        <ele>622</ele>
+      <trkpt lat="-35.264961" lon="149.028006">
+        <ele>603</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.263819" lon="149.031041">
-        <ele>622.25</ele>
+      <trkpt lat="-35.26546" lon="149.027454">
+        <ele>598.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade2</tracktype>
+              <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
               <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.264185" lon="149.030436">
-        <ele>621.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade2</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="-35.265502" lon="149.02741">
+        <ele>596.2837110364813</ele>
       </trkpt>
-      <trkpt lat="-35.264995" lon="149.029479">
-        <ele>613.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade2</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="-35.265700238004236" lon="149.02751766799378">
+        <ele>597.1923192876867</ele>
       </trkpt>
-      <trkpt lat="-35.265267" lon="149.028995">
-        <ele>609</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade2</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="-35.266033897059756" lon="149.02752797021276">
+        <ele>598.1347654981595</ele>
       </trkpt>
-      <trkpt lat="-35.265832" lon="149.028173">
-        <ele>602</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade2</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="-35.26615726644679" lon="149.02752453613914">
+        <ele>598.339216244873</ele>
       </trkpt>
       <trkpt lat="-35.266152" lon="149.027543">
         <ele>596.5</ele>
@@ -421,6 +446,21 @@
       </trkpt>
       <trkpt lat="-35.267365" lon="149.027125">
         <ele>590.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade2</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.267515" lon="149.027044">
+        <ele>590</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -774,22 +814,6 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.27407" lon="149.023926">
-        <ele>551.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
       <trkpt lat="-35.275113" lon="149.0234">
         <ele>546.25</ele>
         <extensions>
@@ -910,20 +934,6 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.277388" lon="149.022725">
-        <ele>535.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
       <trkpt lat="-35.277588" lon="149.023005">
         <ele>532.5</ele>
         <extensions>
@@ -952,895 +962,8 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.277687" lon="149.023225">
-        <ele>529.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277699" lon="149.023301">
-        <ele>528.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277696" lon="149.023412">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277677" lon="149.023539">
-        <ele>526.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277629" lon="149.023656">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277507" lon="149.023856">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277377" lon="149.023991">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277342" lon="149.024043">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277205" lon="149.02418">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277055" lon="149.0243">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276909" lon="149.024438">
-        <ele>529.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276845" lon="149.024547">
-        <ele>530.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27684" lon="149.024709">
+      <trkpt lat="-35.277674" lon="149.023177">
         <ele>530</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276904" lon="149.024834">
-        <ele>529</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277119" lon="149.025069">
-        <ele>524.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277224" lon="149.025253">
-        <ele>522.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277252" lon="149.025447">
-        <ele>522</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277156" lon="149.025691">
-        <ele>524</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276963" lon="149.02587">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276883" lon="149.026026">
-        <ele>529.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27687" lon="149.026193">
-        <ele>530</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276902" lon="149.026357">
-        <ele>529.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277067" lon="149.026628">
-        <ele>527</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277261" lon="149.026917">
-        <ele>526.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277423" lon="149.027142">
-        <ele>526.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277607" lon="149.027332">
-        <ele>525.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277764" lon="149.027479">
-        <ele>523.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277849" lon="149.02769">
-        <ele>523.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27786" lon="149.027839">
-        <ele>523.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277848" lon="149.028145">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277889" lon="149.028315">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.278012" lon="149.028712">
-        <ele>524.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277889" lon="149.028315">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277848" lon="149.028145">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27786" lon="149.027839">
-        <ele>523.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277849" lon="149.02769">
-        <ele>523.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277764" lon="149.027479">
-        <ele>523.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277607" lon="149.027332">
-        <ele>525.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277423" lon="149.027142">
-        <ele>526.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277261" lon="149.026917">
-        <ele>526.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277067" lon="149.026628">
-        <ele>527</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276902" lon="149.026357">
-        <ele>529.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27687" lon="149.026193">
-        <ele>530</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276883" lon="149.026026">
-        <ele>529.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276963" lon="149.02587">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277156" lon="149.025691">
-        <ele>524</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277252" lon="149.025447">
-        <ele>522</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277224" lon="149.025253">
-        <ele>522.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277119" lon="149.025069">
-        <ele>524.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276904" lon="149.024834">
-        <ele>529</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.27684" lon="149.024709">
-        <ele>530</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276845" lon="149.024547">
-        <ele>530.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.276909" lon="149.024438">
-        <ele>529.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277055" lon="149.0243">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277205" lon="149.02418">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277342" lon="149.024043">
-        <ele>526</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <foot>yes</foot>
-              <bicycle>yes</bicycle>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277377" lon="149.023991">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277507" lon="149.023856">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277629" lon="149.023656">
-        <ele>526.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277677" lon="149.023539">
-        <ele>526.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277696" lon="149.023412">
-        <ele>527.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277699" lon="149.023301">
-        <ele>528.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>track</highway>
-              <tracktype>grade3</tracktype>
-              <surface>gravel</surface>
-              <access>permissive</access>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.277687" lon="149.023225">
-        <ele>529.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -1922,330 +1045,612 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.276394" lon="149.022144">
-        <ele>539.75</ele>
+      <trkpt lat="-35.275876" lon="149.020832">
+        <ele>531.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.275739" lon="149.023006">
-        <ele>542.75</ele>
+      <trkpt lat="-35.275546" lon="149.020453">
+        <ele>527.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.27563" lon="149.023103">
-        <ele>543.25</ele>
+      <trkpt lat="-35.275521" lon="149.020437">
+        <ele>527.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.275113" lon="149.0234">
-        <ele>546.25</ele>
+      <trkpt lat="-35.275386" lon="149.020356">
+        <ele>527.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.274025" lon="149.023949">
-        <ele>551.75</ele>
+      <trkpt lat="-35.275155" lon="149.020263">
+        <ele>527.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.273397" lon="149.024258">
-        <ele>553.5</ele>
+      <trkpt lat="-35.274855" lon="149.020202">
+        <ele>527.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.272749" lon="149.02443">
-        <ele>555.25</ele>
+      <trkpt lat="-35.274477" lon="149.020189">
+        <ele>527</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.27243" lon="149.024499">
-        <ele>556</ele>
+      <trkpt lat="-35.274129" lon="149.020206">
+        <ele>527</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.271637" lon="149.024442">
-        <ele>558.5</ele>
+      <trkpt lat="-35.273817" lon="149.020235">
+        <ele>527</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.27133" lon="149.024472">
-        <ele>559.5</ele>
+      <trkpt lat="-35.273677" lon="149.02033">
+        <ele>527.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.270654" lon="149.024605">
-        <ele>563.25</ele>
+      <trkpt lat="-35.273573" lon="149.020504">
+        <ele>529</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.270089" lon="149.024692">
-        <ele>570.75</ele>
+      <trkpt lat="-35.273512" lon="149.020557">
+        <ele>529.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.270044" lon="149.024699">
-        <ele>571.25</ele>
+      <trkpt lat="-35.273442" lon="149.020586">
+        <ele>529.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.269972" lon="149.024794">
-        <ele>572.5</ele>
+      <trkpt lat="-35.27339" lon="149.020592">
+        <ele>529.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.269735" lon="149.024687">
-        <ele>574.25</ele>
+      <trkpt lat="-35.273337" lon="149.020584">
+        <ele>529</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.269473" lon="149.024515">
-        <ele>576.25</ele>
+      <trkpt lat="-35.273262" lon="149.020547">
+        <ele>529.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.269218" lon="149.024287">
-        <ele>577.75</ele>
+      <trkpt lat="-35.273217" lon="149.020491">
+        <ele>529</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.268921" lon="149.023947">
-        <ele>577.75</ele>
+      <trkpt lat="-35.273184" lon="149.02043">
+        <ele>528.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
               <route_hiking_lwn>yes</route_hiking_lwn>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.268623" lon="149.023678">
-        <ele>577.5</ele>
+      <trkpt lat="-35.273134" lon="149.020135">
+        <ele>526.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.2731" lon="149.019994">
+        <ele>525.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.27302" lon="149.019885">
+        <ele>523.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.272775" lon="149.019831">
+        <ele>523.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.272591" lon="149.019882">
+        <ele>525</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.272195" lon="149.020043">
+        <ele>529.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.272099" lon="149.020035">
+        <ele>530.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.27192" lon="149.019933">
+        <ele>530.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271734" lon="149.019676">
+        <ele>529.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271666" lon="149.019423">
+        <ele>527.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.27166" lon="149.01922">
+        <ele>525.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271686" lon="149.018994">
+        <ele>522.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271686" lon="149.018812">
+        <ele>520</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271599" lon="149.018651">
+        <ele>518.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271458" lon="149.018496">
+        <ele>518.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271311" lon="149.018485">
+        <ele>519.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.271044" lon="149.018501">
+        <ele>522.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270701" lon="149.018549">
+        <ele>526.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270298" lon="149.018549">
+        <ele>529</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270193" lon="149.018431">
+        <ele>528.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270158" lon="149.018254">
+        <ele>527.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270162" lon="149.017959">
+        <ele>526.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>gravel</surface>
+              <access>permissive</access>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.270206" lon="149.017637">
+        <ele>525.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.26985" lon="149.017522">
+        <ele>531</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.269768" lon="149.017611">
+        <ele>532.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
               <highway>track</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
@@ -2257,13 +1662,156 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.268523" lon="149.023599">
+      <trkpt lat="-35.269635" lon="149.017704">
+        <ele>533.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.267829" lon="149.018964">
+        <ele>550.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.266382" lon="149.019974">
+        <ele>561.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.266308" lon="149.020028">
+        <ele>562.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.266006" lon="149.020253">
+        <ele>563.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.264934" lon="149.021049">
+        <ele>569.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.26491" lon="149.021517">
+        <ele>571.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.264908" lon="149.021548">
+        <ele>572</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.26491" lon="149.022512">
+        <ele>574.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.264724" lon="149.023414">
         <ele>577.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2274,13 +1822,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.268458" lon="149.023622">
+      <trkpt lat="-35.264584" lon="149.023736">
         <ele>577.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2291,13 +1838,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.267627" lon="149.02478">
-        <ele>584</ele>
+      <trkpt lat="-35.264639" lon="149.023915">
+        <ele>578</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2308,13 +1854,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.267534" lon="149.024682">
-        <ele>583</ele>
+      <trkpt lat="-35.264637" lon="149.024165">
+        <ele>578.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2325,13 +1870,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.267405" lon="149.02458">
-        <ele>582.25</ele>
+      <trkpt lat="-35.264671" lon="149.024295">
+        <ele>579</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2342,47 +1886,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.267002" lon="149.024322">
-        <ele>581.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.26681" lon="149.024183">
-        <ele>581.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.266389" lon="149.023807">
+      <trkpt lat="-35.264619" lon="149.024465">
         <ele>580.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2393,13 +1902,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.266054" lon="149.023568">
-        <ele>579.75</ele>
+      <trkpt lat="-35.264439" lon="149.024992">
+        <ele>584.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2410,81 +1918,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.265731" lon="149.023229">
-        <ele>578.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.265618" lon="149.0238">
-        <ele>580</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.265478" lon="149.024422">
-        <ele>581</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.265421" lon="149.0248">
-        <ele>582.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
-              <tracktype>grade4</tracktype>
-              <surface>dirt</surface>
-              <foot>yes</foot>
-              <bicycle>no</bicycle>
-              <mtb_scale>0</mtb_scale>
-              <route_hiking_lwn>yes</route_hiking_lwn>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="-35.265627" lon="149.026005">
+      <trkpt lat="-35.264278" lon="149.025602">
         <ele>589</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2495,13 +1934,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.265651" lon="149.026444">
-        <ele>590.75</ele>
+      <trkpt lat="-35.264212" lon="149.025905">
+        <ele>591</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2512,13 +1950,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.265625" lon="149.02705">
-        <ele>594.75</ele>
+      <trkpt lat="-35.264165" lon="149.026009">
+        <ele>591.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2529,13 +1966,12 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.26556" lon="149.027351">
-        <ele>597.25</ele>
+      <trkpt lat="-35.264161" lon="149.026066">
+        <ele>591.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2546,13 +1982,28 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.26546" lon="149.027454">
+      <trkpt lat="-35.264462" lon="149.027358">
+        <ele>597</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.264469" lon="149.027515">
         <ele>598.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2563,13 +2014,28 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.264961" lon="149.028006">
-        <ele>603</ele>
+      <trkpt lat="-35.264469" lon="149.027515">
+        <ele>598.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>track</highway>
+              <highway>path</highway>
+              <tracktype>grade4</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>no</bicycle>
+              <mtb_scale>0</mtb_scale>
+              <route_hiking_lwn>yes</route_hiking_lwn>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.264473" lon="149.027645">
+        <ele>599.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>path</highway>
               <tracktype>grade4</tracktype>
               <surface>dirt</surface>
               <foot>yes</foot>
@@ -2832,8 +2298,68 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="-35.26007" lon="149.029641">
+      <trkpt lat="-35.259981" lon="149.029746">
         <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259971" lon="149.02973">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259964" lon="149.029718">
+        <ele>604</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade3</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259981" lon="149.029631">
+        <ele>603.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>track</highway>
+              <tracktype>grade2</tracktype>
+              <surface>dirt</surface>
+              <foot>yes</foot>
+              <bicycle>yes</bicycle>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-35.259932" lon="149.029567">
+        <ele>603</ele>
       </trkpt>
     </trkseg>
   </trk>
